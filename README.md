@@ -68,3 +68,12 @@ This LabVIEW project demonstrates dynamic launching and event-based communicatio
 
 - Ensure proper handling of user events to avoid potential data race conditions.
 - The program allows for dynamic execution of subVIs, ensuring flexibility in multi-tasking applications.
+
+## Code
+![image](https://github.com/user-attachments/assets/80ae70da-11dc-4751-8159-9ff8713193c5)
+![image](https://github.com/user-attachments/assets/d0e22898-c388-4fe4-9d3e-f5070c80e113)
+![image](https://github.com/user-attachments/assets/bace11e7-d762-4902-8728-6b5ac167c3a4)
+![image](https://github.com/user-attachments/assets/4caaa8c8-fef4-4850-b0a7-c4a61753c31c)
+
+
+
