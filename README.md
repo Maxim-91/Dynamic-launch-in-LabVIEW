@@ -75,5 +75,8 @@ This LabVIEW project demonstrates dynamic launching and event-based communicatio
 ![image](https://github.com/user-attachments/assets/bace11e7-d762-4902-8728-6b5ac167c3a4)
 ![image](https://github.com/user-attachments/assets/4caaa8c8-fef4-4850-b0a7-c4a61753c31c)
 
-
+## The appearance of the running program
+![image](https://github.com/user-attachments/assets/2f2efda9-bb7a-4ee1-91ec-ee06e12ea9b7)
+![image](https://github.com/user-attachments/assets/34ba2b73-bc12-4c9d-8ac1-ed95088a1a41)
+![image](https://github.com/user-attachments/assets/85fd32cc-e261-4d12-bd64-5f1032fe5d73)
 
